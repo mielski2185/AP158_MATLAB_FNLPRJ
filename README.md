@@ -1,2 +1,2 @@
 # AP158_MATLAB_FNLPRJ
-Topological Analysis of Cancer Cell Structures Simulated in MATLAB for Radiation Dosage Calculation and Optimization
+This project is entitled **Topological Analysis of Cancer Cell Structures Simulated in MATLAB for Radiation Dosage Calculation and Optimization**, a model that can simulate cancer cells with varying attenuation coefficients, experimentally alpha and beta values and photon, alpha, and beta particle bombardment to see survival rates, morphological effects for topological analysis of application of radiation to a small sample.
